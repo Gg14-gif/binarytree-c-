@@ -1,3 +1,2 @@
 # binarytree-c-
-A binary tree in c++
-you can recreate a family tree and save it 
+you create a family tree and saves it 
