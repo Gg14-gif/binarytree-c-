@@ -1,2 +1,2 @@
 # binarytree-c-
-you create a family tree and save it 
+you can create a family tree and save it 
